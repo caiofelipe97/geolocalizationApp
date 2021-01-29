@@ -71,8 +71,8 @@ const App = () => {
           initialRegion={{
             latitude: coordinates.latitude,
             longitude: coordinates.longitude,
-            latitudeDelta: 0.0922,
-            longitudeDelta: 0.0421,
+            latitudeDelta: 0.0068,
+            longitudeDelta: 0.0068,
           }}
           style={styles.map}
         />
